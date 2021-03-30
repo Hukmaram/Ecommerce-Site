@@ -1,5 +1,5 @@
 # Ecommerce-Site
-Ecommerce web app uding React.JS, HTML, CSS for frontend and Fake Store API for backend.
+Ecommerce web app using React.JS, HTML, CSS for frontend and Fake Store API for backend.
 # Screenshots
 ![Home Page](https://user-images.githubusercontent.com/31129638/113007717-13e69d00-9194-11eb-9900-589225692721.png)
 ![Screenshot_2021-03-30 React App(1)](https://user-images.githubusercontent.com/31129638/113008191-72ac1680-9194-11eb-8c58-efedd9a9f13d.png)
